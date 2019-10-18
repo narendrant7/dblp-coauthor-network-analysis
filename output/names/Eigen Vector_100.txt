@@ -1,0 +1,100 @@
+Alan J. Perlis
+Joseph Henry Wegstein
+Klaus Samelson
+Bernard Vauquois
+Heinz Rutishauser
+John W. Backus
+Michael Woodger
+Adriaan van Wijngaarden
+Friedrich L. Bauer
+John McCarthy 0001
+C. Katz
+Julien Green
+Edsger W. Dijkstra
+W. Heise
+Alan L. Tritter
+Owen R. Mock
+J. Olsztyn
+T. Steel
+J. Strong
+John W. Carr III
+James E. Robertson
+Norman R. Scott
+Walter F. Bauer
+Mario L. Juncosa
+Charles Thornton
+Henry C. Thacher Jr.
+J. Poyen
+Marshall L. Freimer
+Bernard Gold
+J. R. McReynolds
+Boyd Larrowe
+J. H. Brown
+Charles J. Swift
+Gernot Metze
+George P. West
+T. W. Mullikin
+A. A. Grau
+Eiichi Goto
+Tohru Moto-Oka
+Yoshihiro Ishibashi
+Yasushi Miatsu-Oka
+Kenro Murata
+Eiiti Wada
+Keisuke Nakagawa
+Kisaburo Nakazawa
+Haruhisa Ishida
+Takashi Soma
+H. Takahasi
+James H. North
+Bradford Dunham
+Joan W. Weltzien
+John A. Sliter
+Donald Middleton
+I. Y. Akushsky
+V. S. Linsky
+G. D. Monakhov
+E. A. Klyamko
+L. B. Emelianov-Yaroslavsky
+Morton M. Astrahan
+John F. Jacobs
+Bennett Housman
+Walker H. Thomas
+Rollin P. Mayer
+Richard M. Friedberg
+Yu. A. Shreider
+Yu. Y. Basilevsky
+J. Kister
+W. Walden
+P. Stein
+M. Wells
+S. Ulam
+Pierre Auger
+André Danjon
+Hughes Vinel
+Réne Maheu
+Howard H. Aiken
+L. R. Walters
+Eugene M. Zaitzeff
+S. N. Braines
+A. V. Napalkov
+Nathaniel Rochester
+Frederick P. Brooks Jr.
+John H. Holland
+Alan L. Leiner
+Wilfried Buchholz
+W. A. Notz
+J. L. Smith
+L. H. Haibt
+William L. Duda
+Arnold Weinberger
+Rosalind B. Marimont
+Gerrit A. Blaauw
+Charles J. Bashe
+Peter G. Neumann
+Albert L. Hopkins Jr.
+William V. Wright
+Werner Buchholz
+Robert Kalaba
+Richard Bellman
+Willis H. Ware

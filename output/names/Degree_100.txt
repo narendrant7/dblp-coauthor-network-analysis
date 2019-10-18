@@ -1,0 +1,100 @@
+Alan J. Perlis
+Joseph Henry Wegstein
+Klaus Samelson
+Bernard Vauquois
+Heinz Rutishauser
+John W. Backus
+Michael Woodger
+Adriaan van Wijngaarden
+Friedrich L. Bauer
+John McCarthy 0001
+C. Katz
+Julien Green
+Eiichi Goto
+Tohru Moto-Oka
+Yoshihiro Ishibashi
+Yasushi Miatsu-Oka
+Kenro Murata
+Eiiti Wada
+Keisuke Nakagawa
+Kisaburo Nakazawa
+Haruhisa Ishida
+Takashi Soma
+Alan L. Tritter
+Nathaniel Rochester
+John W. Carr III
+Frederick P. Brooks Jr.
+Owen R. Mock
+I. Y. Akushsky
+W. Wesley Peterson
+Morton M. Astrahan
+J. Olsztyn
+T. Steel
+J. Strong
+John H. Holland
+Alan L. Leiner
+James H. North
+Bradford Dunham
+Walter E. Proebster
+Dana S. Scott
+J. Barkley Rosser
+Franz Ferschl
+Siegfried J. Methfessel
+Wilfried Buchholz
+John J. Wedel
+Granino A. Korn
+Arthur V. Pohm
+Walter F. Bauer
+Peter Elias
+Yu. A. Shreider
+V. S. Linsky
+G. D. Monakhov
+E. A. Klyamko
+L. B. Emelianov-Yaroslavsky
+J. Kister
+W. Walden
+P. Stein
+M. Wells
+S. Ulam
+Arnold Weinberger
+W. A. Notz
+J. L. Smith
+Donald E. Rosenheim
+Robert M. Walker
+Arthur G. Anderson
+John F. Jacobs
+Bennett Housman
+Walker H. Thomas
+Rollin P. Mayer
+Pierre Auger
+André Danjon
+Hughes Vinel
+Réne Maheu
+Howard H. Aiken
+James E. Robertson
+Joan W. Weltzien
+John A. Sliter
+Donald Middleton
+George A. Miller
+Bernard A. Galler
+Martin Graham
+Robert Spinrad
+Howard R. Pate
+G. L. Miller
+Edsger W. Dijkstra
+W. Heise
+Peter G. Neumann
+Albert L. Hopkins Jr.
+William V. Wright
+Irving M. Copi
+Richard L. Anderson
+William H. White
+John C. Marinace
+M. Jacqueline O'Rourke
+Allen Newell
+Herbert A. Simon
+Adolf Adam
+Herman H. Goldstine
+C. L. Gerberich
+Roy F. Reeves
+Andrew E. Brennemann

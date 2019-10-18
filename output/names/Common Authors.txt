@@ -1,0 +1,24 @@
+Edsger W. Dijkstra
+Eiichi Goto
+Owen R. Mock
+Nathaniel Rochester
+Joseph Henry Wegstein
+Arnold Weinberger
+Walter F. Bauer
+James H. North
+Klaus Samelson
+Bernard Vauquois
+Yu. A. Shreider
+I. Y. Akushsky
+John W. Carr III
+Wilfried Buchholz
+Bradford Dunham
+W. A. Notz
+J. L. Smith
+Alan L. Leiner
+James E. Robertson
+Alan J. Perlis
+Alan L. Tritter
+Frederick P. Brooks Jr.
+John H. Holland
+Morton M. Astrahan

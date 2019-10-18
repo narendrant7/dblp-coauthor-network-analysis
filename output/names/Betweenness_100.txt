@@ -1,0 +1,100 @@
+Alan J. Perlis
+Joseph Henry Wegstein
+John W. Carr III
+W. Wesley Peterson
+Dana S. Scott
+Michael O. Rabin
+Alan L. Tritter
+Nathaniel Rochester
+Wilfried Buchholz
+J. Barkley Rosser
+Theodore G. Birdsall
+Frederick P. Brooks Jr.
+Walter F. Bauer
+Bernard Vauquois
+Owen R. Mock
+Mario L. Juncosa
+Henry C. Thacher Jr.
+James E. Robertson
+John A. Swets
+John H. Holland
+Klaus Samelson
+Patrick Suppes
+Hao Wang 0001
+I. Y. Akushsky
+Wilson P. Tanner
+Yu. A. Shreider
+Leon Henkin
+Franz Ferschl
+Richard Montague
+Robert M. Walker
+Georg Kreisel
+Eiichi Goto
+Adolf Adam
+Morton M. Astrahan
+Walter E. Proebster
+Siegfried J. Methfessel
+W. V. Quine
+Ward C. Sangren
+Hilary Putnam
+C. L. Gerberich
+Donald E. Rosenheim
+Arthur G. Anderson
+Wesley E. Dickinson
+Alan L. Leiner
+Roy F. Reeves
+Richard A. Silverman
+Arnold Weinberger
+Gerrit A. Blaauw
+George A. Miller
+Bernard A. Galler
+John J. Wedel
+Peter Elias
+Nelson Goodman
+William Craig
+Allen Newell
+Herbert A. Simon
+Granino A. Korn
+Arthur V. Pohm
+Harold S. Shapiro
+Samuel D. Conte
+Irving M. Copi
+Herman H. Goldstine
+Bruce G. Oldfield
+Robert H. Bracken
+N. T. Grisamore
+D. D. Aufenkamp
+D. Ray Fulkerson
+G. Robert Gunther-Mohr
+Marvin L. Stein
+David A. Pope
+David Middleton
+Julian J. Bussgang
+James H. North
+Bradford Dunham
+Kenneth S. Miller
+Robert M. Howe
+Ivan Flores
+R. C. Bose
+Harold Willis Milnes
+Irwin D. Greenwald
+Andreas M. Koutsoudas
+David G. Hays
+Stephen H. Unger
+Francis P. Hoeber
+W. A. Notz
+J. L. Smith
+Bruce Gilchrist
+James H. Pomerene
+Martin Graham
+Robert Spinrad
+Howard R. Pate
+G. L. Miller
+J. F. Barrett
+Douglas G. Lampard
+Tom Kilburn
+Frank H. Sumner
+R. L. Grimsdale
+Peter Wolf
+Wolfgang Dietrich
+Edsger W. Dijkstra
